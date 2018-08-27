@@ -11,3 +11,5 @@ function Scooter(year, color, hometown) {
   this.color = color
   this.hometown = hometown
 }
+
+let samson = new Scooter(2015, "red", "swoosh");
